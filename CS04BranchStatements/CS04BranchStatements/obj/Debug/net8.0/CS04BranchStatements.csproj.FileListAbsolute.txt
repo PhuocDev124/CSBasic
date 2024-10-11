@@ -1,0 +1,15 @@
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\bin\Debug\net8.0\CS04BranchStatements.exe
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\bin\Debug\net8.0\CS04BranchStatements.deps.json
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\bin\Debug\net8.0\CS04BranchStatements.runtimeconfig.json
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\bin\Debug\net8.0\CS04BranchStatements.dll
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\bin\Debug\net8.0\CS04BranchStatements.pdb
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.AssemblyInfoInputs.cache
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.AssemblyInfo.cs
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.csproj.CoreCompileInputs.cache
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.sourcelink.json
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.dll
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\refint\CS04BranchStatements.dll
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.pdb
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\CS04BranchStatements.genruntimeconfig.cache
+F:\CSharp\CSBasic\CS04BranchStatements\CS04BranchStatements\obj\Debug\net8.0\ref\CS04BranchStatements.dll
