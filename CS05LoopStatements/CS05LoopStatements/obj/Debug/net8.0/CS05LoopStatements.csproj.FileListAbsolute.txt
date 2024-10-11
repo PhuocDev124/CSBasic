@@ -1,0 +1,15 @@
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\bin\Debug\net8.0\CS05LoopStatements.exe
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\bin\Debug\net8.0\CS05LoopStatements.deps.json
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\bin\Debug\net8.0\CS05LoopStatements.runtimeconfig.json
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\bin\Debug\net8.0\CS05LoopStatements.dll
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\bin\Debug\net8.0\CS05LoopStatements.pdb
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.AssemblyInfoInputs.cache
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.AssemblyInfo.cs
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.csproj.CoreCompileInputs.cache
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.sourcelink.json
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.dll
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\refint\CS05LoopStatements.dll
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.pdb
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\CS05LoopStatements.genruntimeconfig.cache
+F:\CSharp\CSBasic\CS05LoopStatements\CS05LoopStatements\obj\Debug\net8.0\ref\CS05LoopStatements.dll
