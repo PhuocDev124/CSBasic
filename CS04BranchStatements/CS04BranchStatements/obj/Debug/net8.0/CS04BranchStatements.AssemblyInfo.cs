@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS04BranchStatements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7db81e686b7b5d679b7be05f7e3f8cabfe88c92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+890dc8cbda420cd31d5ddabe773b3b700b177b0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS04BranchStatements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS04BranchStatements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

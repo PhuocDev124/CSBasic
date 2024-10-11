@@ -19,15 +19,40 @@ if (n % 2 == 0)
 else
     Console.WriteLine($"{n} is an odd");
 
-//Bài 2: Kiểm tra năm nhuần (check leap year)
-/*
- * chia hết cho 4 nhưng không chia hết cho 100 hoặc
- * chia hết cho 400
- */
-printmessage("Check Leap year");
-Console.Write("Enter a Year: ")
+//Kiểm tra ngày hợp lệ (Check for valid dates)
+printmessage("Check for valid dates");
+Console.Write("Enter a day: ");
+int day = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Enter a month: ");
+int month = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Enter a year: ");
 int year = Convert.ToInt32(Console.ReadLine());
-if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
-    Console.WriteLine($"{year} is leap year");
+
+bool isLeapYear = (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0 ? true : false);
+bool isValidDate = true;
+
+if (month < 1 || month > 12)
+    isValidDate = false;
 else
-    Console.WriteLine($"{year} is not leap year");
+{
+    switch (month)
+    {
+        case 1: case 3:case 5: case 7: case 8: case 10: case 12:
+            if (day < 1 || day > 31) isValidDate = false; 
+            break;
+        case 4: case 6: case 9: case 11:
+            if (day < 1 || day > 30) isValidDate = false;
+            break;
+        case 2:
+            if (isLeapYear && (day < 1 || day > 29)) isValidDate = false;
+            if (!isLeapYear && (day < 1 || day > 28)) isValidDate = false;
+            break;
+    }
+}
+
+if (isValidDate)
+    Console.WriteLine($"{day}/{month}/{year} is valid date");
+else
+    Console.WriteLine($"{day}/{month}/{year} is not valid date");
