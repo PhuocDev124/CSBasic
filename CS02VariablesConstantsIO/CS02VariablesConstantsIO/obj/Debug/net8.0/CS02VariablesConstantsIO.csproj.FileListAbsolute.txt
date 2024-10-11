@@ -1,0 +1,14 @@
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\bin\Debug\net8.0\CS02VariablesConstantsIO.exe
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\bin\Debug\net8.0\CS02VariablesConstantsIO.deps.json
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\bin\Debug\net8.0\CS02VariablesConstantsIO.runtimeconfig.json
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\bin\Debug\net8.0\CS02VariablesConstantsIO.dll
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\bin\Debug\net8.0\CS02VariablesConstantsIO.pdb
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\CS02VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\CS02VariablesConstantsIO.AssemblyInfoInputs.cache
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\CS02VariablesConstantsIO.AssemblyInfo.cs
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\CS02VariablesConstantsIO.csproj.CoreCompileInputs.cache
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\CS02VariablesConstantsIO.dll
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\refint\CS02VariablesConstantsIO.dll
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\CS02VariablesConstantsIO.pdb
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\CS02VariablesConstantsIO.genruntimeconfig.cache
+F:\CSharp\CSBasic\CS02VariablesConstantsIO\CS02VariablesConstantsIO\obj\Debug\net8.0\ref\CS02VariablesConstantsIO.dll

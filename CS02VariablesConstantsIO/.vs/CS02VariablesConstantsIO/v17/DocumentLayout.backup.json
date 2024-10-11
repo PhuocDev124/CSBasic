@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp\\CSBasic\\CS02VariablesConstantsIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{674C175B-26F2-4575-84A4-098A896BDD60}|CS02VariablesConstantsIO\\CS02VariablesConstantsIO.csproj|f:\\csharp\\csbasic\\cs02variablesconstantsio\\cs02variablesconstantsio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674C175B-26F2-4575-84A4-098A896BDD60}|CS02VariablesConstantsIO\\CS02VariablesConstantsIO.csproj|solutionrelative:cs02variablesconstantsio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSBasic\\CS02VariablesConstantsIO\\CS02VariablesConstantsIO\\Program.cs",
+              "RelativeDocumentMoniker": "CS02VariablesConstantsIO\\Program.cs",
+              "ToolTip": "F:\\CSharp\\CSBasic\\CS02VariablesConstantsIO\\CS02VariablesConstantsIO\\Program.cs",
+              "RelativeToolTip": "CS02VariablesConstantsIO\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:33:45.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

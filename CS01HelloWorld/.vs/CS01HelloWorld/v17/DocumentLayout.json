@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp\\CSBasic\\CS01HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75A772D-7189-49D7-92C8-9BD0DEDE0370}|CS01HelloWorld\\CS01HelloWorld.csproj|f:\\csharp\\csbasic\\cs01helloworld\\cs01helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75A772D-7189-49D7-92C8-9BD0DEDE0370}|CS01HelloWorld\\CS01HelloWorld.csproj|solutionrelative:cs01helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSBasic\\CS01HelloWorld\\CS01HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "CS01HelloWorld\\Program.cs",
+              "ToolTip": "F:\\CSharp\\CSBasic\\CS01HelloWorld\\CS01HelloWorld\\Program.cs",
+              "RelativeToolTip": "CS01HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:32:02.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

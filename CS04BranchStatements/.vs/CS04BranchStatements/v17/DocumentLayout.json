@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp\\CSBasic\\CS04BranchStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{570338A7-842D-490A-9C78-B21128DCA0C0}|CS04BranchStatements\\CS04BranchStatements.csproj|f:\\csharp\\csbasic\\cs04branchstatements\\cs04branchstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570338A7-842D-490A-9C78-B21128DCA0C0}|CS04BranchStatements\\CS04BranchStatements.csproj|solutionrelative:cs04branchstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp\\CSBasic\\CS04BranchStatements\\CS04BranchStatements\\Program.cs",
+              "RelativeDocumentMoniker": "CS04BranchStatements\\Program.cs",
+              "ToolTip": "F:\\CSharp\\CSBasic\\CS04BranchStatements\\CS04BranchStatements\\Program.cs",
+              "RelativeToolTip": "CS04BranchStatements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:34:00.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
