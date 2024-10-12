@@ -1,0 +1,15 @@
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.AssemblyInfoInputs.cache
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.AssemblyInfo.cs
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.csproj.CoreCompileInputs.cache
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.sourcelink.json
+F:\CSharp\CSBasic\CS06Array\CS06Array\bin\Debug\net8.0\CS06Array.exe
+F:\CSharp\CSBasic\CS06Array\CS06Array\bin\Debug\net8.0\CS06Array.deps.json
+F:\CSharp\CSBasic\CS06Array\CS06Array\bin\Debug\net8.0\CS06Array.runtimeconfig.json
+F:\CSharp\CSBasic\CS06Array\CS06Array\bin\Debug\net8.0\CS06Array.dll
+F:\CSharp\CSBasic\CS06Array\CS06Array\bin\Debug\net8.0\CS06Array.pdb
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.dll
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\refint\CS06Array.dll
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.pdb
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\CS06Array.genruntimeconfig.cache
+F:\CSharp\CSBasic\CS06Array\CS06Array\obj\Debug\net8.0\ref\CS06Array.dll
