@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS06Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa9d3d4dc611a8273620f56bc1ec553027058ae4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d5fe24d872dc825965ad9ae3350d6494e448803")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS06Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS06Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

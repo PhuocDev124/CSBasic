@@ -42,3 +42,28 @@ Console.WriteLine("---------------");
 var x = Array.Find(numbers, (n) => n < 5);
 Console.WriteLine(x);
 
+/*
+    -   Nhập mảng
+    - Tìm Max(), Min()
+    - Mảng đảo ngược
+    - Đếm số lần xuất hiện các phần tử trong mảng
+ */
+
+Console.WriteLine("-------------------------------------");
+Console.Write("Enter the size of array: ");
+int size = Convert.ToInt32(Console.ReadLine());
+int[] numbersArray = new int[size];
+
+for (int i = 0; i < numbersArray.Length; i++)
+{
+    Console.Write($"A[{i}]: ");
+    numbersArray[i] = Convert.ToInt32(Console.ReadLine());
+}
+
+foreach (int i in numbersArray) 
+    Console.Write(i + "\t");
+Console.WriteLine($"\nMax: {numbersArray.Max()}");
+Console.WriteLine($"Min: {numbersArray.Min()}");
+int[] numbersArrayReverse = numbersArray;
+Array.Reverse(numbersArrayReverse);
+Array.ForEach(numbersArrayReverse, (n) => Console.Write(n + "\t"));
