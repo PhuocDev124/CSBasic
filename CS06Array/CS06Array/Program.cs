@@ -25,6 +25,9 @@
 
 * Predicate là một delegate trả về bool
 * Action là một delegate có một tham số và không trả trị
+* 
+* Mảng nhìu chiều (Rank) (row x column)
+* Mảng trong mảng (Mảng Jagged): là mảng mà các phần tử là các mảng 
 */
 
 int[] numbers = { 9, 8, 7, 6, 5, 4, 3, 2, 1 };
