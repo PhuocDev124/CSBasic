@@ -13,6 +13,8 @@
  */
 
 // Calculate the square of a number
+using CS07Method;
+
 int Square(int n)
 {
     return n * n;
@@ -55,3 +57,7 @@ static int FactorialRecursion(int n)
 
 Console.WriteLine("========================================");
 Console.WriteLine("5! = " + FactorialRecursion(5)); // 120
+
+CS07Test test = new CS07Test();
+Console.WriteLine(test.sumOfDigits(1234));
+Console.WriteLine(test.Power(2, 3));
