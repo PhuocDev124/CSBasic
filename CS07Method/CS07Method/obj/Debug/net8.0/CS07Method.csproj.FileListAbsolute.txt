@@ -1,0 +1,15 @@
+F:\CSharp\CSBasic\CS07Method\CS07Method\bin\Debug\net8.0\CS07Method.exe
+F:\CSharp\CSBasic\CS07Method\CS07Method\bin\Debug\net8.0\CS07Method.deps.json
+F:\CSharp\CSBasic\CS07Method\CS07Method\bin\Debug\net8.0\CS07Method.runtimeconfig.json
+F:\CSharp\CSBasic\CS07Method\CS07Method\bin\Debug\net8.0\CS07Method.dll
+F:\CSharp\CSBasic\CS07Method\CS07Method\bin\Debug\net8.0\CS07Method.pdb
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.AssemblyInfoInputs.cache
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.AssemblyInfo.cs
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.csproj.CoreCompileInputs.cache
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.sourcelink.json
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.dll
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\refint\CS07Method.dll
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.pdb
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\CS07Method.genruntimeconfig.cache
+F:\CSharp\CSBasic\CS07Method\CS07Method\obj\Debug\net8.0\ref\CS07Method.dll
